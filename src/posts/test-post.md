@@ -9,4 +9,6 @@ This is a test.Nothing to see here.
 
 
 
-![An orange building](/src/assets/img/orange_cool.jpg "A splash of orange.")
+![An orange building](src/assets/img/orange_cool.jpg "A splash of orange.")
+
+![Orange](~/src/assets/img/orange_cool.jpg "some orange")
